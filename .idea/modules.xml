@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RobotArmClient/RobotArmClient.iml" filepath="$PROJECT_DIR$/../RobotArmClient/RobotArmClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RobotArmCommon/RobotArmCommon.iml" filepath="$PROJECT_DIR$/../RobotArmCommon/RobotArmCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RobotArmServer.iml" filepath="$PROJECT_DIR$/RobotArmServer.iml" />
+    </modules>
+  </component>
+</project>
